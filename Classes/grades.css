@@ -1,0 +1,33 @@
+* {
+	font-family: Helvetica;
+	background-image: url("bg.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-blend-mode: color;
+}
+
+.subject-header {
+	text-align: center;
+	font-size: 50px;
+	box-shadow: none;
+}
+
+* {
+	color: black;
+	text-align: center;
+	text-decoration: none;
+}
+
+.designdiv {
+	border: 2px solid black;
+	height: 200px;
+	margin: 10px;
+	border-radius: 20px;
+}
+
+.designhead {
+	text-align: center;
+	font-size: 30px;
+}.wip {
+	font-size: 75px;
+}
